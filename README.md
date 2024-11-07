@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [ADH6](https://github.com/minet/adh6)
 
-- 👨‍💻 One part of my projects are available at [https://nicolasportfolio.notion.site/Portfolio-0cd4dde7a27941b69db92b6b9a11e73d](https://nicolasportfolio.notion.site/Portfolio-0cd4dde7a27941b69db92b6b9a11e73d)
+- 👨‍💻 One part of my projects are available at [Portfolio](https://nicolasportfolio.notion.site/Portfolio-0cd4dde7a27941b69db92b6b9a11e73d)
 
 - 📫 How to reach me **discord : andinox**
 
