@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">A simple developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andinox" alt="andinox" /></a> </p>
-
 - 🔭 I’m currently working on [App Training du jeu Karuta](https://gitlab.minet.net/NicoLeChat/TrainingKaruta)
 
 - 🌱 I’m currently learning **Rust**
